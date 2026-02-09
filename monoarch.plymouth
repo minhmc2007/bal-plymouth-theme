@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=Monoarch
-Description=Monochrome theme with Arch Linux logo and spinner
+Name=BAL Plymouth
+Description=Monochrome theme with Blue Archive Linux logo and spinner
 ModuleName=script
 
 [script]
-ImageDir=/usr/share/plymouth/themes/monoarch/images
-ScriptFile=/usr/share/plymouth/themes/monoarch/monoarch.script
+ImageDir=/usr/share/plymouth/themes/bal/images
+ScriptFile=/usr/share/plymouth/themes/bal/bal.script
